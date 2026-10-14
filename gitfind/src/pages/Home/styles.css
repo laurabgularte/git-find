@@ -68,3 +68,10 @@ button {
   font-size: 15px;
   margin: 20px 0;
 }
+
+.repositorios {
+  font-size: 32px;
+  color: #ffffff;
+  margin: 12px 0;
+  text-align: center;
+}
